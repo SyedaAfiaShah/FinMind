@@ -1,6 +1,6 @@
 # 💹 Next-Gen Portfolio Optimization: An AI-Driven and Cloud-Native Quantum-Enhanced Financial Decision-Making Framework  
 ### 🧭 Application Layer - FinMind: Talk. Plan. Invest. Smarter.
-
+> **Note:** This repository contains a demonstration version of the project. It is intended to showcase the core concepts, architecture, and workflow. The full production system includes additional models, optimizations, and integrations not included here.
 ---
 
 ## Overview
@@ -39,3 +39,5 @@ flowchart TD
 
     G1 --> H[Cloud Deployment Layer]
     G2 --> H
+    
+Note: This repository is a demonstration version of the project, created to illustrate the core idea, architecture, and workflow. It does not represent the full production system.
