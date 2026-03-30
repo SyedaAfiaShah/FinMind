@@ -1,12 +1,12 @@
-# 💹 Next-Gen Portfolio Optimization: An AI-Driven and Cloud-Native Quantum-Enhanced Financial Decision-Making Framework  
-### 🧭 Application Layer - FinMind: Talk. Plan. Invest. Smarter.
+# 💹 Next-Gen Portfolio Optimization: AI-Driven & Quantum-Enhanced Financial Decisions  
+### 🧭 Application Layer - FinMind: Talk. Plan. Invest. Smarter
+
 > **Note:** This repository contains a demonstration version of the project. It is intended to showcase the core concepts, architecture, and workflow. The full production system includes additional models, optimizations, and integrations not included here.
+
 ---
 
 ## Overview
-This repository contains a working prototype of an **AI-driven, quantum-inspired portfolio optimization system** that merges **academic research** and **real-world application**.
-
-The project demonstrates how **Artificial Intelligence**, **classical optimization**, and **quantum annealing principles** can be combined into a **unified investment decision pipeline**, deployed as a **cloud-native application**.
+FinMind is an AI-driven, quantum-inspired portfolio optimization framework that merges **academic research** with **real-world application**. This prototype demonstrates how **Artificial Intelligence**, **classical optimization**, and **quantum annealing principles** can work together in a unified investment decision pipeline, deployed as a **cloud-native application**.
 
 ---
 
@@ -15,13 +15,17 @@ The project demonstrates how **Artificial Intelligence**, **classical optimizati
 | Layer | Description |
 |-------|--------------|
 | **Academic (FYP)** | Research framework exploring AI + quantum optimization integration. |
-| **Application** | FinMind, a conversational + dashboard-based investment advisor built on the same core logic. |
+| **Application** | FinMind: a conversational AI + dashboard-based investment advisor built on the same core logic. |
 
 **In essence:**  
-FinMind = A research framework + a conversational AI layer + user-friendly dashboard.
+FinMind = Research framework + Conversational AI layer + User-friendly dashboard
 
 ---
-The Prototype can be viewed here: https://huggingface.co/spaces/Afia8/FinMind
+
+The prototype is live here: [FinMind Demo](https://huggingface.co/spaces/Afia8/FinMind)
+
+---
+
 ## System Architecture
 
 ```mermaid
@@ -39,5 +43,3 @@ flowchart TD
 
     G1 --> H[Cloud Deployment Layer]
     G2 --> H
-    
-Note: This repository is a demonstration version of the project, created to illustrate the core idea, architecture, and workflow. It does not represent the full production system.
