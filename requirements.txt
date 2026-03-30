@@ -4,3 +4,4 @@ numpy
 PyPortfolioOpt
 dwave-ocean-sdk
 matplotlib
+huggingface_hub<0.25.0
